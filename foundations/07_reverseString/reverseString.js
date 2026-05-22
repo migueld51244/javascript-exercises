@@ -11,7 +11,7 @@ const reverseString = function(str) {
   return finalStr;
 };
 
-console.log(reverseString("hello there"));
+console.log(reverseString("whats up"));
 
 // Do not edit below this line
 module.exports = reverseString;
